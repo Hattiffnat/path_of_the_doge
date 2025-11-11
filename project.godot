@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="rumata_games_exam"
+config/name="path_of_the_doge"
 run/main_scene="uid://cfanppwu3kihb"
 config/features=PackedStringArray("4.5", "Forward Plus")
 config/icon="res://icon.svg"
