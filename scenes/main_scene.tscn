@@ -78,17 +78,17 @@ tile_set = ExtResource("3_c1pb6")
 [node name="controls_hint" type="Label" parent="."]
 offset_top = -106.0
 offset_right = 134.0
-text = "⬅️ ➡️  -  ходьба
-Space - прыжок
-F5 - сохранить
-F6 - загрузить"
+text = "⬅️ ➡️  -  walk
+Space - jump
+F5 - save
+F6 - load"
 
 [node name="controls_hint2" type="Label" parent="."]
 offset_top = -214.0
 offset_right = 134.0
 offset_bottom = -108.0
-text = "Соберите 10 монет!
-Опасайтесь монстров!"
+text = "Collect 10 coins!
+Beware of monsters!"
 
 [node name="DogeBody" parent="." instance=ExtResource("1_0f027")]
 position = Vector2(68, -33)
